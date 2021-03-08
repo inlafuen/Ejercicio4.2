@@ -16,7 +16,7 @@
 
         android:layout_marginTop="8dp"
 
-        android:text=" Droid Desserts "
+        android:text="@string/droid_desserts"
 
         android:textSize="24sp"
 
